@@ -87,9 +87,8 @@ University of Hartford
 
 ## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://github.com/Rugvedpednekar/Rugvedpednekar/blob/main/dist/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Rugvedpednekar/Rugvedpednekar/main/dist/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 ## 📜 Certifications
