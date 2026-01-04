@@ -79,10 +79,16 @@ University of Hartford
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rugvedpednekar&show_icons=true&theme=transparent&count_private=true" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rugvedpednekar&theme=transparent" width="420"/>
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rugvedpednekar&show_icons=true&count_private=true&theme=github_dark&cache_seconds=86400"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Rugvedpednekar&theme=github-dark&hide_border=true"
+    height="165"
+  />
+</p>
 
 ---
 
