@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 Master’s student in Computer Science (2024–2026)
-- 💼 Former **IT Analyst at Morgan Stanley** (P1/P2 incident handling, ServiceNow, ITIL)
+- 💼 Former **IT Analyst at Morgan Stanley** 
 - 🧠 Strong foundation in **Machine Learning, Deep Learning, Databases, and Systems**
 - 🔐 Interested in **ML + Security**, **Data Engineering**, and **Production-grade systems**
 
