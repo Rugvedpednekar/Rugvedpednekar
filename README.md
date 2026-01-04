@@ -80,14 +80,7 @@ University of Hartford
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Rugvedpednekar&show_icons=true&count_private=true&theme=github_dark&cache_seconds=86400"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Rugvedpednekar&theme=github-dark&hide_border=true"
-    height="165"
-  />
+  <img src="https://raw.githubusercontent.com/Rugvedpednekar/Rugvedpednekar/main/metrics.svg" alt="metrics" />
 </p>
 
 ---
