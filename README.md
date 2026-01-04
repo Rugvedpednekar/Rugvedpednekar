@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Rugvedpednekar/count.svg" alt="Visitor Count" />
-</div>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Rugvedpednekar/count.svg" />
+</p>
+
 
 <h1 align="center">
   Hi, I'm Rugved Pednekar!
